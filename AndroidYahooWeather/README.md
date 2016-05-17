@@ -11,32 +11,35 @@ This is a demo app described in [Surviving with android] (http://www.survivingwi
 ![](https://raw.github.com/survivingwithandroid/Swa-app/master/AndroidYahooWeather/art/android_weather_app_settings.png)
 ![](https://raw.github.com/survivingwithandroid/Swa-app/master/AndroidYahooWeather/art/android_weather_app_settings1.png)
 
+# OpenWeatherMap
+=======
+
+
+This repository contains the source code of the app described as:
+Mobile Engineer Exercise
+The following is an exercise that you should not spend more than 4 hours on (even if you do not complete the entire exercise).
+Please build an app (your preference of iOS or Android) displaying the 5 day weather forecast for a location of your choice, using the data from http://openweathermap.org/forecast5.
+You should:
+•	Use the API to retrieve the current 5 day weather forecast in JSON and render it on the screen
+•	Give some thought to what will make for a decent user experience, but with no need to go all out on sleek and flashy UI
+
+Please upload your solution to GitHub (https://github.com) - you can create a free account if needed. Please make sure the GitHub project is public and respond back to us with the URL for the project.
+The solution should be able to be run locally with the appropriate simulator.
+Good luck and thank you for your time - we look forward to seeing your creation.
+
+
 ##App
-In Google Play you can find an app built using this code. Give a look.
-
-[![](http://www.android.com/images/brand/android_app_on_play_logo_small.png)](https://play.google.com/store/search?q=com.survivingwithandroid.weather)
-
-##Support my work
-If you like my work and want to support me, download the app and you can donate to me a beer!!. Thank you
-
-##Credits 
-*Author:* Francesco Azzola (JFrankie) ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
-
-[![](http://4.bp.blogspot.com/-Bfh2unbdc84/UcGqVJKdMwI/AAAAAAAAAOc/W4kGiTU-fYk/s1600/google_plus_58.png)](http://www.google.com/+FrancescoAzzola)  [![](http://3.bp.blogspot.com/-_JSQStno9N8/UcGWEW7V9AI/AAAAAAAAAOM/_qFVUjIaySg/s1600/linkedin.png)](http://it.linkedin.com/in/francescoazzola)
-
-## Follow Surviving with Android
-[Surviving with android](http://www.survivingwithandroid.com)
-
-[![](http://4.bp.blogspot.com/-rv-qkRRWuEs/UbhpKi2IBrI/AAAAAAAAANI/HZPsxPQ2amk/s1600/google_plus.png)](http://www.google.com/+Survivingwithandroid) [![](http://3.bp.blogspot.com/-uoKWkNQ6yFk/Ubhp7EoxhMI/AAAAAAAAANY/7jeuD2uOKV8/s1600/twitter.png)](https://twitter.com/survivingwithan) [![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/survivingwithan)
+The app is available for download directly from:
+Http://www.raiiar.comlu.com/APK/OpenWeatherMap_v2.0.doc  (##AN.B. rename .doc to .apk) -  Give a look.
 
 
-##Contacts
-If you have any question about the code or you want to suggest to me some improvements you can contact me or join the Survivig with Android community.
 
-[![](http://4.bp.blogspot.com/-rv-qkRRWuEs/UbhpKi2IBrI/AAAAAAAAANI/HZPsxPQ2amk/s1600/google_plus.png)](https://plus.google.com/communities/102586626917632222599)
+##Author 
+*Author:* Julius Olatokunbo ([Julius](mailto:itddd.julius@gmail.com))
+
 
 ##Licence
-Copyright 2012-2014 Francesco Azzola (Surviving with Android)
+Copyright 2016 Julius Olatokunbo  (Wipro Digital - Mobile Engineer Exercise)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
