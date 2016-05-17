@@ -1,35 +1,10 @@
-# Swa-app
-=======
 
+##Author 
+*Author:* Julius Olatokunbo ([Julius](mailto:itddd.julius@gmail.com))
 
-This is a peg board app 
-
-
-
-##Screenshots
-
-![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_1.png)
-![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_2.png)
-![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_3.png)
-
-##Credits 
-*Author:* Francesco Azzola (JFrankie) ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
-
-[![](http://4.bp.blogspot.com/-Bfh2unbdc84/UcGqVJKdMwI/AAAAAAAAAOc/W4kGiTU-fYk/s1600/google_plus_58.png)](http://www.google.com/+FrancescoAzzola)  [![](http://3.bp.blogspot.com/-_JSQStno9N8/UcGWEW7V9AI/AAAAAAAAAOM/_qFVUjIaySg/s1600/linkedin.png)](http://it.linkedin.com/in/francescoazzola)
-
-## Follow Surviving with Android
-[Surviving with android](http://www.survivingwithandroid.com)
-
-[![](http://4.bp.blogspot.com/-rv-qkRRWuEs/UbhpKi2IBrI/AAAAAAAAANI/HZPsxPQ2amk/s1600/google_plus.png)](http://www.google.com/+Survivingwithandroid) [![](http://3.bp.blogspot.com/-uoKWkNQ6yFk/Ubhp7EoxhMI/AAAAAAAAANY/7jeuD2uOKV8/s1600/twitter.png)](https://twitter.com/survivingwithan) [![](http://2.bp.blogspot.com/-VKiajIE8QrQ/UhtxLts5USI/AAAAAAAAAPQ/3Xvn0e50PE0/s1600/facebook.png)](https://www.facebook.com/survivingwithan)
-
-
-##Contacts
-If you have any question about the code or you want to suggest to me some improvements you can contact me or join the Survivig with Android community.
-
-[![](http://4.bp.blogspot.com/-rv-qkRRWuEs/UbhpKi2IBrI/AAAAAAAAANI/HZPsxPQ2amk/s1600/google_plus.png)](https://plus.google.com/communities/102586626917632222599)
 
 ##Licence
-Copyright 2012-2014 Francesco Azzola (Surviving with Android)
+Copyright 2016 Julius Olatokunbo  (Wipro Digital - Mobile Engineer Exercise)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -42,3 +17,15 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+This is a peg board app 
+
+
+
+##Screenshots
+
+![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_1.png)
+![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_2.png)
+![](https://raw.github.com/survivingwithandroid/Swa-app/master/PegBoardv1/art/board_3.png)
+
