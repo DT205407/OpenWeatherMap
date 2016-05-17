@@ -42,5 +42,5 @@ limitations under the License.
 
 ##Screenshots
 
-![](https://raw.github.com/OpenWeatherMap/master/images/android_weather_app.png)
+![](https://raw.github.com/itdddjulius/OpenWeatherMap/master/images/android_weather_app.png)
 
