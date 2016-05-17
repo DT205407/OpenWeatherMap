@@ -17,7 +17,7 @@ Good luck and thank you for your time - we look forward to seeing your creation.
 
 ##App
 The app is available for download directly from:
-Http://www.raiiar.comlu.com/APK/OpenWeatherMap_v2.0.apk  -  Give a look.
+Http://www.raiiar.comlu.com/APK/OpenWeatherMap_v2.0.doc  (##AN.B. rename .doc to .apk) -  Give a look.
 
 
 
